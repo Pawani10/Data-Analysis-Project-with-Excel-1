@@ -13,4 +13,8 @@ To analyze Vrinda Store's 2022 sales data and uncover actionable insights around
 - Customer Demographics by Age Group and Gender
 ## Dashboard
 <a href="https://github.com/Pawani10/Data-Analysis-Project-with-Excel-1/blob/main/Screenshot%202026-06-22%20235543.png"> Dashboard </a>
-
+## Process
+- Data Collection — Raw transactional data was sourced containing 31,000+ orders with fields including Order ID, Customer ID, Gender, Age, Date, Channel, Category, Size, Amount, and Shipping State.
+- Data Cleaning — Checked for duplicates, standardized categorical fields (Gender, Age Group, Status), and ensured date formats were consistent.
+- Data Processing — Created derived columns: Month (from Date) and Age Group (Teen / Adult / Senior) using IF formulas. Aggregated data using Pivot Tables.
+- Analysis & Visualization — Built Pivot Tables and charts for each KPI. Assembled an interactive dashboard with slicers for Month, Channel, and Category.
