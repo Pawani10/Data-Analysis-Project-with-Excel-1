@@ -18,3 +18,5 @@ To analyze Vrinda Store's 2022 sales data and uncover actionable insights around
 - Data Cleaning — Checked for duplicates, standardized categorical fields (Gender, Age Group, Status), and ensured date formats were consistent.
 - Data Processing — Created derived columns: Month (from Date) and Age Group (Teen / Adult / Senior) using IF formulas. Aggregated data using Pivot Tables.
 - Analysis & Visualization — Built Pivot Tables and charts for each KPI. Assembled an interactive dashboard with slicers for Month, Channel, and Category.
+<img width="1416" height="628" alt="Screenshot 2026-06-22 235543" src="https://github.com/user-attachments/assets/7b53b2c7-29fc-4efd-bee1-96ed4f16e3d4" />
+
