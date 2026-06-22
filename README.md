@@ -4,6 +4,7 @@ To analyze Vrinda Store's 2022 sales data and uncover actionable insights around
 ## Dataset used
 <a href="https://github.com/Pawani10/Data-Analysis-Project-with-Excel-1/blob/main/Vrinda%20Store%20Data%20Analysis%20(1).xlsx"> Raw Dataset </a>
 ## KPIs
+
 Total Revenue & Monthly Sales Trend
 Order Volume by Month
 Revenue Split by Gender
