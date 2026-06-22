@@ -19,4 +19,11 @@ To analyze Vrinda Store's 2022 sales data and uncover actionable insights around
 - Data Processing — Created derived columns: Month (from Date) and Age Group (Teen / Adult / Senior) using IF formulas. Aggregated data using Pivot Tables.
 - Analysis & Visualization — Built Pivot Tables and charts for each KPI. Assembled an interactive dashboard with slicers for Month, Channel, and Category.
 <img width="1416" height="628" alt="Screenshot 2026-06-22 235543" src="https://github.com/user-attachments/assets/7b53b2c7-29fc-4efd-bee1-96ed4f16e3d4" />
+## Key Insights
 
+- March recorded the highest revenue (₹19.28L) and orders (2,819), while November and December saw the steepest decline, suggesting a post-festive sales dip.
+- Women dominate purchases — contributing ~64% of total revenue (₹1.36Cr) versus ~36% from men (₹76.1L).
+- Maharashtra, Karnataka, and Uttar Pradesh are the top 3 revenue-generating states, together accounting for nearly 37% of total sales.
+- Amazon leads all channels with ~35% of orders, followed by Myntra (~23%) and Flipkart (~22%) — these three platforms together drive ~80% of total orders.
+- 93.5% of orders were successfully delivered, with returns (3.4%) and cancellations (2.7%) remaining low, indicating strong fulfillment health.
+- Adult women (25–50 age group) are the single largest customer segment, making up over 52% of all customers — making them the primary target demographic.
