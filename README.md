@@ -13,3 +13,4 @@ To analyze Vrinda Store's 2022 sales data and uncover actionable insights around
 - Customer Demographics by Age Group and Gender
 ## Dashboard
 <a href="https://github.com/Pawani10/Data-Analysis-Project-with-Excel-1/blob/main/Screenshot%202026-06-22%20235543.png"> Dashboard </a>
+
